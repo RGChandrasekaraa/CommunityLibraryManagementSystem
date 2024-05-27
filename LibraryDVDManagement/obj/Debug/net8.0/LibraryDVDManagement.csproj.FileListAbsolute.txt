@@ -1,0 +1,14 @@
+/Users/rgchandrasekaraa/CommunityLib/LibraryDVDManagement/bin/Debug/net8.0/LibraryDVDManagement
+/Users/rgchandrasekaraa/CommunityLib/LibraryDVDManagement/bin/Debug/net8.0/LibraryDVDManagement.deps.json
+/Users/rgchandrasekaraa/CommunityLib/LibraryDVDManagement/bin/Debug/net8.0/LibraryDVDManagement.runtimeconfig.json
+/Users/rgchandrasekaraa/CommunityLib/LibraryDVDManagement/bin/Debug/net8.0/LibraryDVDManagement.dll
+/Users/rgchandrasekaraa/CommunityLib/LibraryDVDManagement/bin/Debug/net8.0/LibraryDVDManagement.pdb
+/Users/rgchandrasekaraa/CommunityLib/LibraryDVDManagement/obj/Debug/net8.0/LibraryDVDManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rgchandrasekaraa/CommunityLib/LibraryDVDManagement/obj/Debug/net8.0/LibraryDVDManagement.AssemblyInfoInputs.cache
+/Users/rgchandrasekaraa/CommunityLib/LibraryDVDManagement/obj/Debug/net8.0/LibraryDVDManagement.AssemblyInfo.cs
+/Users/rgchandrasekaraa/CommunityLib/LibraryDVDManagement/obj/Debug/net8.0/LibraryDVDManagement.csproj.CoreCompileInputs.cache
+/Users/rgchandrasekaraa/CommunityLib/LibraryDVDManagement/obj/Debug/net8.0/LibraryDVDManagement.dll
+/Users/rgchandrasekaraa/CommunityLib/LibraryDVDManagement/obj/Debug/net8.0/refint/LibraryDVDManagement.dll
+/Users/rgchandrasekaraa/CommunityLib/LibraryDVDManagement/obj/Debug/net8.0/LibraryDVDManagement.pdb
+/Users/rgchandrasekaraa/CommunityLib/LibraryDVDManagement/obj/Debug/net8.0/LibraryDVDManagement.genruntimeconfig.cache
+/Users/rgchandrasekaraa/CommunityLib/LibraryDVDManagement/obj/Debug/net8.0/ref/LibraryDVDManagement.dll
